@@ -1,3 +1,4 @@
 #!/usr/bin/perl
-print 'text';
+print'helo'
+print'test'
 
